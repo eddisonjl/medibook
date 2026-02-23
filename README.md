@@ -36,16 +36,16 @@
 ## 📸 Capturas de Pantalla
 
 ### 🏠 Home
-![Home](screenshots/home.png)
+![Home](screenshots/home.PNG)
 
 ### 🔐 Login
-![Login](screenshots/login.png)
+![Login](screenshots/login.PNG)
 
 ### 📅 Citas
-![Appointments](screenshots/appointments.png)
+![Appointments](screenshots/appointments.PNG)
 
 ### ⚙️ Admin
-![Admin](screenshots/admin.png)
+![Admin](screenshots/admin.PNG)
 
 ---
 
