@@ -35,14 +35,17 @@
 
 ## 📸 Capturas de Pantalla
 
-> *(Agrega screenshots aquí después de correr el proyecto)*
+### 🏠 Home
+![Home](screenshots/home.png)
 
-| Vista | Descripción |
-|-------|------------|
-| `Home` | Landing page con especialidades y doctores destacados |
-| `Doctors` | Directorio de especialistas filtrable |
-| `My Appointments` | Panel de citas del paciente |
-| `Book Appointment` | Formulario para agendar nueva cita |
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 📅 Citas
+![Appointments](screenshots/appointments.png)
+
+### ⚙️ Admin
+![Admin](screenshots/admin.png)
 
 ---
 
