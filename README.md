@@ -56,7 +56,7 @@
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/medibook.git
+git clone https://github.com/eddisonjl/medibook.git
 cd medibook
 
 # 2. Crear entorno virtual
@@ -132,9 +132,9 @@ Appointment   →  Cita médica con estados: pending / confirmed / completed / c
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**  
-📧 tuemail@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/tuperfil) | [GitHub](https://github.com/tuusuario)
+**Eddison Jocol**  
+📧 eddison.jossue@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/eddison-jocol-lopez) | [GitHub](https://github.com/eddisonjl)
 
 ---
 
